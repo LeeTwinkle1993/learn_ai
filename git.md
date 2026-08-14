@@ -1,8 +1,8 @@
-git 仓库初始化 会生成.git文件
+# git 仓库初始化 会生成.git文件
 git init
  
  
-提交所有文件 add . 
+# 提交所有文件 add . 
 git add .
 # 提交对应文件
 git add git.md
